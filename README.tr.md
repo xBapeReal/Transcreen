@@ -5,7 +5,7 @@
 ama canlı ve tüm sistemde çalışır.
 
 <p align="center">
-  <img src="docs/demo.gif" alt="Bir oyun mağazası sayfası Türkçe desteği olmadığını söylüyor; hayal kırıklığına uğrayan oyuncu masadan kalkıyor, ardından oyundaki İngilizce yazı parlayarak Türkçeye dönüşüyor." width="640">
+  <img src="docs/demo.webp" alt="Bir oyun mağazası sayfası Türkçe desteği olmadığını söylüyor; hayal kırıklığına uğrayan oyuncu masadan kalkıyor, ardından oyundaki İngilizce yazı parlayarak Türkçeye dönüşüyor." width="800">
   <br>
   <sub>Tanıtım animasyonu, yapay zekâ ile üretildi. Uygulamanın kendisinde çeviri, orijinal yazının stiliyle çizilir.</sub>
 </p>

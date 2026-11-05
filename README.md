@@ -5,7 +5,7 @@ translation of every piece of foreign text **right on top of it**: same position
 colors. Think Google Lens, but live and system-wide.
 
 <p align="center">
-  <img src="docs/demo.gif" alt="A game store page says Turkish is not supported; a disappointed gamer leaves his desk, then the English game text turns into glowing Turkish." width="640">
+  <img src="docs/demo.webp" alt="A game store page says Turkish is not supported; a disappointed gamer leaves his desk, then the English game text turns into glowing Turkish." width="800">
   <br>
   <sub>Teaser animation, made with AI. In the app itself, the translation is drawn in the style of the original text.</sub>
 </p>
@@ -24,8 +24,10 @@ colors. Think Google Lens, but live and system-wide.
 > monologued into the void, and countless side stories faded away unread. If you have actually
 > read this far, congratulations: you do not need this app. Someone you know does, though, so
 > send them the link and leave a star on your way out.
->
-> **Bunu okuyamıyorsun, değil mi? Çünkü henüz Transcreen'li değilsin.** 👉 [Türkçe README](README.tr.md)
+
+<h2 align="center">Okuyamadın, değil mi?</h2>
+<h3 align="center">Oyunlardaki hikâyeleri de tam olarak böyle kaçırıyorsun.</h3>
+<p align="center"><b>Transcreen ile bir daha kaçırma.</b> 👉 <a href="README.tr.md">Türkçe README</a></p>
 
 There is no window and no buttons. Start it, and foreign text on screen turns Turkish in place.
 The overlay is click-through, so you keep using whatever is underneath it. It works in games,
