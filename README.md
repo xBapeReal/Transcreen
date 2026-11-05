@@ -16,6 +16,17 @@ colors. Think Google Lens, but live and system-wide.
   <a href="README.tr.md">Türkçe README</a>
 </p>
 
+> Listen, adventurer. Long before the first patch notes were ever written, the old kingdoms
+> argued over which tongue the gods of the update server should speak. The scholars of the North
+> swore by English, the merchants of the South demanded subtitles in every language, and the
+> people of Anatolia simply waited, season after season, squinting at dialogue boxes they could
+> only half understand. Quests were accepted without knowing what was asked, villains
+> monologued into the void, and countless side stories faded away unread. If you have actually
+> read this far, congratulations: you do not need this app. Someone you know does, though, so
+> send them the link and leave a star on your way out.
+>
+> **Bunu okuyamıyorsun, değil mi? Çünkü henüz Transcreen'li değilsin.** 👉 [Türkçe README](README.tr.md)
+
 There is no window and no buttons. Start it, and foreign text on screen turns Turkish in place.
 The overlay is click-through, so you keep using whatever is underneath it. It works in games,
 videos, browsers, and desktop apps alike.
