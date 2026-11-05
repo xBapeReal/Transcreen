@@ -4,7 +4,17 @@
 translation of every piece of foreign text **right on top of it**: same position, same size, same
 colors. Think Google Lens, but live and system-wide.
 
-[Türkçe README](README.tr.md)
+<p align="center">
+  <img src="docs/demo.gif" alt="A game store page says Turkish is not supported; a disappointed gamer leaves his desk, then the English game text turns into glowing Turkish." width="640">
+  <br>
+  <sub>Teaser animation, made with AI. In the app itself, the translation is drawn in the style of the original text.</sub>
+</p>
+
+<p align="center">
+  <a href="../../releases/latest/download/Transcreen-windows.zip"><b>⬇ Download for Windows</b></a>
+  &nbsp;·&nbsp;
+  <a href="README.tr.md">Türkçe README</a>
+</p>
 
 There is no window and no buttons. Start it, and foreign text on screen turns Turkish in place.
 The overlay is click-through, so you keep using whatever is underneath it. It works in games,
@@ -43,8 +53,10 @@ videos, browsers, and desktop apps alike.
 
 ## Quick start
 
-1. Download or clone this repository.
-2. Double-click **`Transcreen.bat`**. The first run sets up everything that is missing, which
+1. Download **`Transcreen-windows.zip`** from the [latest release](../../releases/latest) and
+   extract it, or clone this repository.
+2. Double-click **`Transcreen.bat`**. If Windows shows a security prompt for a downloaded file,
+   choose **Run**. The first run sets up everything that is missing, which
    takes a few minutes once:
    - [uv](https://docs.astral.sh/uv/), through its official installer;
    - the Python dependencies;

@@ -6,3 +6,7 @@
 *.ps1 text eol=crlf
 *.png binary
 *.ico binary
+*.gif binary
+
+# README media stays out of release/source archives (users only need the app).
+docs/ export-ignore

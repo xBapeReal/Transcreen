@@ -4,7 +4,17 @@
 **tam üzerine** çizer: aynı konumda, aynı boyutta, aynı renklerde. Google Lens gibi düşünebilirsin,
 ama canlı ve tüm sistemde çalışır.
 
-[English README](README.md)
+<p align="center">
+  <img src="docs/demo.gif" alt="Bir oyun mağazası sayfası Türkçe desteği olmadığını söylüyor; hayal kırıklığına uğrayan oyuncu masadan kalkıyor, ardından oyundaki İngilizce yazı parlayarak Türkçeye dönüşüyor." width="640">
+  <br>
+  <sub>Tanıtım animasyonu, yapay zekâ ile üretildi. Uygulamanın kendisinde çeviri, orijinal yazının stiliyle çizilir.</sub>
+</p>
+
+<p align="center">
+  <a href="../../releases/latest/download/Transcreen-windows.zip"><b>⬇ Windows için indir</b></a>
+  &nbsp;·&nbsp;
+  <a href="README.md">English README</a>
+</p>
 
 Pencere yok, düğme yok. Uygulamayı açtığında ekrandaki yabancı yazılar yerlerinde Türkçeleşir.
 Kaplama tıklamaları engellemez, altındaki her şeyi normal kullanmaya devam edersin. Oyunlarda,
@@ -40,9 +50,11 @@ videolarda, tarayıcıda ve masaüstü uygulamalarında aynı şekilde çalış�
 
 ## Hızlı başlangıç
 
-1. Bu repoyu indir veya klonla.
-2. **`Transcreen.bat`** dosyasına çift tıkla. İlk çalıştırma eksik olan her şeyi kurar, bu bir
-   kereye mahsus birkaç dakika sürer:
+1. [Son sürümden](../../releases/latest) **`Transcreen-windows.zip`** dosyasını indirip bir
+   klasöre çıkar ya da bu repoyu klonla.
+2. **`Transcreen.bat`** dosyasına çift tıkla. İndirilen dosya için Windows bir güvenlik uyarısı
+   gösterirse **Çalıştır**'ı seç. İlk çalıştırma eksik olan her şeyi kurar, bu bir kereye mahsus
+   birkaç dakika sürer:
    - resmi kurulum betiğiyle [uv](https://docs.astral.sh/uv/);
    - Python bağımlılıkları;
    - çevrimdışı çeviri modeli (opus-mt-tc-big en→tr, yaklaşık 476 MB).
